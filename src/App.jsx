@@ -49,18 +49,16 @@ const App = () => {
               <a href="https://www.instagram.com/_mungk0rn_/">instagram</a>
             </li>
             <li className="bg-black p-1 rounded-md drop-shadow-[0_3px_3px_rgba(0,0,0,0.4)] text-white text-center font-semibold text-[12px]">
-              <a href="https://github.com/CinnamonRolly">github</a>
+              <a href="https://github.com/MungkornHorpanich">github</a>
             </li>
             <li className="bg-gradient-to-r from-red-600 to bg-orange-400 p-1 rounded-md drop-shadow-[0_3px_3px_rgba(0,0,0,0.4)] text-white text-center font-semibold text-[12px]">
-              <a href="https://www.youtube.com/channel/UCWy7pKl-5CBX3OT6vLBbIbA">
-                youtube
-              </a>
+              <a href="https://www.youtube.com/@WhileDev77">youtube</a>
             </li>
             <li className="bg-gradient-to-r from-blue-600 to bg-sky-500 p-1 rounded-md drop-shadow-[0_3px_3px_rgba(0,0,0,0.4)] text-white text-center font-semibold text-[12px]">
               <a href="https://twitter.com/whiledev7">twitter</a>
             </li>
             <li className="bg-gradient-to-r from-slate-900 to bg-purple-400 p-1 rounded-md drop-shadow-[0_3px_3px_rgba(0,0,0,0.4)] text-white text-center font-semibold text-[12px]">
-              <a href="https://whiledev.vercel.app/">portfolio</a>
+              <a href="https://www.whiledev.site/">portfolio</a>
             </li>
           </ul>
         </motion.div>
@@ -70,4 +68,3 @@ const App = () => {
 };
 
 export default App;
-
